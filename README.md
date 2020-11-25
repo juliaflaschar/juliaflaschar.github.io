@@ -7,5 +7,5 @@ Juhuuuu!
 # [Seite 3](https://juliaflaschar.github.io/page3.md)
 
 
-![Foto](/Pfad/zum/MG_1061.JPG)
+![Foto](https://juliaflaschar.github.io/MG_1061.JPG)
 
