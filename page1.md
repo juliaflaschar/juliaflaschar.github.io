@@ -1,1 +1,2 @@
-Hier steht ein Text...
+Hier steht ein Text...und anbei ein Foto
+![Foto](https://juliaflaschar.github.io/MG_1061.JPG)
