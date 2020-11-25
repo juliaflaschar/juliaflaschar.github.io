@@ -2,9 +2,9 @@
 :-)
 Juhuuuu! 
 
-# [Seite 1](https://juliaflaschar.github.io/page1)
+# [Seite 1](https://juliaflaschar.github.io/page1.html)
 
-# [Seite 3](https://juliaflaschar.github.io/page3.html)
+# [Seite 2](https://juliaflaschar.github.io/page2.html)
 
 
 
