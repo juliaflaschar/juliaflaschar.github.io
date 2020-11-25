@@ -2,5 +2,5 @@
 :-)
 Juhuuuu!
 
-[Seite 2](https://juliaflaschar.github.io/seite-2)
+[Seite 2](https://github.com/juliaflaschar/juliaflaschar.github.io/blob/main/Seite-2)
 
