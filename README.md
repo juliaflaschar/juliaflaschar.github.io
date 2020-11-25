@@ -2,5 +2,5 @@
 :-)
 Juhuuuu!
 
-![] (https://juliaflaschar.github.io/seite-2)
+![](https://juliaflaschar.github.io/seite-2)
 
