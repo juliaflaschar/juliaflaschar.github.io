@@ -1,6 +1,6 @@
 # Meine 1. Seite
 :-)
-Juhuuuu! 
+Juhuuuu! ![Foto](https://juliaflaschar.github.io/MG_1061.JPG)
 
 # [Seite 1](https://juliaflaschar.github.io/page1.html)
 
