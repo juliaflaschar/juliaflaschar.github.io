@@ -2,6 +2,6 @@
 :-)
 Juhuuuu!
 
-[Seite 2](https://juliaflaschar.github.io/page1)
+-[Seite 2](https://juliaflaschar.github.io/page1)
 
 
